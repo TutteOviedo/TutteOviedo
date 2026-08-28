@@ -13,9 +13,6 @@ hacia roles de AI Engineer — agentes, RAG, tool use.
 - **JobFit** *(en construcción)* — sistema multi-agente que analiza ofertas laborales y genera CVs optimizados para ATS.
 - **[Cloud Resume Challenge](https://github.com/TutteOviedo/porfolio-matias-oviedo)** — arquitectura 100% serverless en AWS.
 
-### Stack
-
-### Stack
 
 ### Stack
 
