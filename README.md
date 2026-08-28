@@ -15,6 +15,18 @@ hacia roles de AI Engineer — agentes, RAG, tool use.
 
 ### Stack
 
-`Python` `TypeScript` `AWS (Bedrock, Lambda, S3, CloudFront)` `RAG` `Agentes de IA`
+### Stack
+
+**Programación** — `Python` `JavaScript` `HTML` `CSS`
+
+**Bases de datos** — `MySQL` `SQL`
+
+**Cloud & AWS** — `AWS` `Bedrock` `Lambda` `S3` `CloudFront` `API Gateway` `DynamoDB`
+
+**IA & Agentes** — `RAG` `Tool Use` `Prompt Engineering` `LLMs`
+
+**Testing & Herramientas** — `Postman` `API Testing` `Invgate` `Azure DevOps` `Kibana`
+
+**Metodologías** — `Scrum` `Kanban`
 
 📫 oviedo.matias.d@gmail.com · [LinkedIn](https://linkedin.com/in/oviedo-matias)
