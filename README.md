@@ -17,7 +17,9 @@ hacia roles de AI Engineer — agentes, RAG, tool use.
 
 ### Stack
 
-**Programación** — `Python` `JavaScript` `HTML` `CSS`
+### Stack
+
+**Programación** — `TypeScript` `Python` `JavaScript` `HTML` `CSS`
 
 **Bases de datos** — `MySQL` `SQL`
 
