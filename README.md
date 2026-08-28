@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hola, soy Matías 👋
 
-<!--
-**TutteOviedo/TutteOviedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Application Support Engineer con 6 años de experiencia, en transición
+hacia roles de AI Engineer — agentes, RAG, tool use.
 
-Here are some ideas to get you started:
+🔗 [matiasoviedo.com.ar](https://matiasoviedo.com.ar)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Lo que estoy construyendo
+
+- **[Portfolio](https://github.com/TutteOviedo/porfolio-matias-oviedo)** — Next.js en AWS (S3, CloudFront, Lambda), con Tute, mi agente de IA con RAG y tool use armados a mano.
+- **JobFit** *(en construcción)* — sistema multi-agente que analiza ofertas laborales y genera CVs optimizados para ATS.
+- **[Cloud Resume Challenge](https://github.com/TutteOviedo/porfolio-matias-oviedo)** — arquitectura 100% serverless en AWS.
+
+### Stack
+
+`Python` `TypeScript` `AWS (Bedrock, Lambda, S3, CloudFront)` `RAG` `Agentes de IA`
+
+📫 oviedo.matias.d@gmail.com · [LinkedIn](https://linkedin.com/in/oviedo-matias)
