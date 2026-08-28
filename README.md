@@ -1,4 +1,4 @@
-![Banner](assets/github-banner-v4.png)
+![Banner](assets/github-banner.png)
 
 ## Hola, soy Matías 👋
 
