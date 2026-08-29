@@ -9,7 +9,7 @@ hacia roles de AI Engineer - agentes, RAG, tool use.
 
 ### Lo que estoy construyendo
 
-- **[Porfolio](https://github.com/TutteOviedo/porfolio-matias-oviedo)** - Next.js en AWS (S3, CloudFront, Lambda), con Tute, mi agente de IA con RAG y tool use armados a mano.
+- **[Portfolio](https://github.com/TutteOviedo/portfolio-matias-oviedo)** - Next.js en AWS (S3, CloudFront, Lambda), con Tute, mi agente de IA con RAG y tool use armados a mano.
 - **JobFit** *(en construcción)* - sistema multi-agente que analiza ofertas laborales y genera CVs optimizados para ATS.
 - **[Cloud Resume Challenge](https://github.com/TutteOviedo/porfolio-matias-oviedo)** - arquitectura 100% serverless en AWS.
 
